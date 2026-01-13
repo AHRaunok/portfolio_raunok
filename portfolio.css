@@ -1,8 +1,35 @@
 nav li{
     display: inline;
     margin-right: 15px;
-    ;
+    
 }
 nav li:hover{
-    background-color: yellow;
+    background-color: rgb(198, 231, 51);
 }
+nav li a{
+    color: green;
+    text-decoration: none;
+}
+table{
+    border-collapse: collapse;
+
+}
+td,th{
+    border: 1px solid blue;
+    padding: 5px 70px 5px 5px ;
+}
+.container{
+    margin:20px;
+    border:2px solid black;
+    gap:50px;
+    display:flex;
+    justify-content: space-between;
+}
+.item{
+    margin:10px;
+    display:inline-block;
+    border:1px solid gray;
+    padding:5px;
+    
+}
+
