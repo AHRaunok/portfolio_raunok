@@ -1,0 +1,8 @@
+nav li{
+    display: inline;
+    margin-right: 15px;
+    ;
+}
+nav li:hover{
+    background-color: yellow;
+}
