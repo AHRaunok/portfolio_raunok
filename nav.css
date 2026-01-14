@@ -1,0 +1,14 @@
+nav ul {
+    display:flex;
+}
+nav li a{
+     margin:10px;
+    text-decoration:none;
+    color: darkgreen;
+
+
+}
+nav li a:hover{
+    color:rgb(13, 192, 75);
+
+}
